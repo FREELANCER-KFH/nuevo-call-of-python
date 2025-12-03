@@ -10,3 +10,10 @@ body {
 h1, h2 {
     text-align: center;
 }
+
+p {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(250, 100, 50, 0.5);
+}
